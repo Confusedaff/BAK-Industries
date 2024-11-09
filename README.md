@@ -1,1 +1,1 @@
-Creating a web where users can explore uniques web's through categories.
+Creating a web where users can explore more web's through categories.
